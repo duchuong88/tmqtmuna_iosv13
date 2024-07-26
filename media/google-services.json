@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "809600663657",
+    "firebase_url": "https://tmqt-munna-default-rtdb.firebaseio.com",
+    "project_id": "tmqt-munna",
+    "storage_bucket": "tmqt-munna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809600663657:android:4ecf9204fd77c1994f22f8",
+        "android_client_info": {
+          "package_name": "munna.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4cA_mcGd5OOdMTzOpoxV4tUlKg3ACjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

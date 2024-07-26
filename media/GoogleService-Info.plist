@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCNE9OGbxEZcG9z2jyOGHLii4wnVDFzvbY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>809600663657</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>munna.ezspa</string>
+	<key>PROJECT_ID</key>
+	<string>tmqt-munna</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tmqt-munna.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:809600663657:ios:1fb2b272d2f034aa4f22f8</string>
+	<key>DATABASE_URL</key>
+	<string>https://tmqt-munna-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
